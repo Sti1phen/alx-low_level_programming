@@ -3,7 +3,10 @@
 #include <stdio.h>
 /* more headers goes there */
 
-/* print is negative or positive */
+/**
+*print is negative or positive
+*precise program
+*/
 int main(void)
 {
 	int n;
