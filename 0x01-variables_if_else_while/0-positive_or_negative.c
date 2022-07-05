@@ -11,6 +11,6 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	/* your code goes there */
 	
-	printf("%d is zero\n", n);
+	printf("r is zero\n");
 	return (0);
 }
