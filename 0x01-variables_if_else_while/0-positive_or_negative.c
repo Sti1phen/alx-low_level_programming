@@ -4,9 +4,10 @@
 /* more headers goes there */
 
 /**
-*print is negative or positive
-*precise program
-*/
+ * main - this is the main function
+ * Description: the main function)?
+ * Return: 0
+ */
 int main(void)
 {
 	int n;
